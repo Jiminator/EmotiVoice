@@ -1,0 +1,1 @@
+8051|Happy|<sos/eos> [HH] [AH0] [L] [OW1] engsp1 [W] [ER1] [L] [D] <sos/eos>

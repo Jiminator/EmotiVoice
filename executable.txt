@@ -1,0 +1,1 @@
+python inference_am_vocoder_joint.py --logdir prompt_tts_open_source_joint --config_folder config/joint --checkpoint g_00140000 --test_file data/inference/text && afplay ./outputs/prompt_tts_open_source_joint/test_audio/audio/g_00140000/1.wav
